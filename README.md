@@ -8,3 +8,5 @@
 [![An image of @somansabeel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/somansabeel)](https://holopin.io/@somansabeel)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
+
+[![Snake animation](https://github.com/SOMAN-SABEEL/snk/raw/output/github-snake-dark.svg?palette=github-dark)]
