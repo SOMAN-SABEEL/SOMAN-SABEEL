@@ -10,4 +10,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/soman-sabeel/snk/output/snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
