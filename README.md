@@ -9,4 +9,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
 
-https://github.com/soman-sabeel/snk/raw/output/github-contribution-grid-snake.gif
+![GitHub Snake](https://raw.githubusercontent.com/soman-sabeel/snk/output/snake.svg)
+
