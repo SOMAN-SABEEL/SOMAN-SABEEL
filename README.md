@@ -9,5 +9,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/<your-username>/snk/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/soman-sabeel/snk/output/snake-dark.svg#gh-dark-mode-only)
 
