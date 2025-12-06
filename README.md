@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soman-sabeel" alt="soman-sabeel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/01_black_hat" target="blank"><img src="https://img.shields.io/twitter/follow/01_black_hat?logo=twitter&style=for-the-badge" alt="01_black_hat" /></a> </p>
+<p align="left">  </p>
 
 [![An image of @somansabeel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/somansabeel)](https://holopin.io/@somansabeel)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
 
-![GitHub Snake](https://raw.githubusercontent.com/soman-sabeel/snk/output/snake.svg)
 
