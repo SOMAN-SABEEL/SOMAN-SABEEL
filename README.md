@@ -7,6 +7,11 @@
 
 [![An image of @somansabeel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/somansabeel)](https://holopin.io/@somansabeel)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soman-sabeel&show_icons=true&locale=en" alt="soman-sabeel" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOMAN-SABEEL/SOMAN-SABEEL/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOMAN-SABEEL/SOMAN-SABEEL/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SOMAN-SABEEL/SOMAN-SABEEL/output/pacman-contribution-graph.svg">
+</picture>
 
 
